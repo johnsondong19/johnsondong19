@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Johnson
 - 👀 I’m interested inlearning python and looking to get proficient in network automation or just automation in general
 - 🌱 I’m currently learning CCNA as I look for entry level jobs
-- 💞️ I’m looking to collaborate on ## Not yet at the moment ##
 - 📫 You can reach me through my email johnsondong19@gmail.com
-- 😄 Pronouns: ... I don't do this stuff here sorry
 - ⚡ Fun fact: ... I'm a huge JRPG fan especially FF Series
 
 <!---
