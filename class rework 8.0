@@ -1,0 +1,90 @@
+class rework 8.0
+
+Tank - 
+Warrior
+Dark Knight
+Gunbreaker
+Paladin
+
+Healer - 
+Scholar
+Sage
+White Mage
+Astrologian
+
+DPS-Melee
+Samurai
+Ninja
+Monk
+Dragoon
+Viper
+Reaper
+
+DPS-Range
+Machinist
+Dancer
+Bard
+
+DPS-Caster
+Red Mage
+Black Mage
+Summoner
+Pictomancer
+
+Tanks - Sub Classifications
+
+-Health/Regen Type-
+Warrior - Regen/Lifesteal - aoe nascend flash
+Gunbreaker -Regen - aoe aurora - medica like
+
+-Shield Type-
+Paladin - more Shield Buffs 
+Dark Knight - aoe TBN Shield Buffs
+
+Healer - Sub Classifications
+
+-Shield-
+Sage
+Scholar
+
+-Regen-
+Astrologian
+White Mage
+
+DPS-Melee - Sub Classification
+
+Party Buffs/Support Type
+Ninja - trick attack - not stackable with pierce debuff / party buff
+Dragoon - pierce debuff - same as trick attack / battle litany
+Monk - concussion debuff - same debuff - riddle of earth buff
+
+Main/Cannon/Burst Type
+Samurai
+Viper
+Reaper
+
+DPS-Range - Sub Classification
+
+Party Buffs/Support Type
+Bard - foe requeiem's return + aoe buff
+Dancer - slicing debuff + aoe buff
+
+Main/Cannon/Burst Type
+Machinist
+New Job TBD
+
+DPS-Caster - Sub Classification
+
+Party Buffs/Support Type
+Red Mage - vulnerability debuff / embolden
+Summoner - piercing debuff / searing light
+
+Main/Cannon/Burst Type
+Pictomancer
+Black Mage
+
+
+
+
+
+Just minor sub classifications to have a better job identity.
