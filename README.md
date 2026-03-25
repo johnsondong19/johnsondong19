@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Johnson
 - 👀 I’m interested inlearning python and looking to get proficient in network automation or just automation in general
-- 🌱 I’m currently learning CCNA as I look for entry level jobs
+- ☁️ I’m currently learning Azure Administrator Associate to solidify my cloud skills.
 - 📫 You can reach me through my email johnsondong19@gmail.com
 - ⚡ Fun fact: ... I'm a huge JRPG fan especially FF Series
 
